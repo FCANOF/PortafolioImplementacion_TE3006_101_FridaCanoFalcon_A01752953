@@ -1,4 +1,19 @@
-# Demo file for the folder with the draft version of each deliverable
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Retroalimentación
+En esta carpeta se recopilan los archivos a retroalimentar
+ 
+## Estructura del repositorio
+El root folder del repositorio contiene los siguientes carpetas y archivos:
 
-This folder contains a subfolder for each related module and the files that must be reviewed for each deliverable. Please refer to each subfolder for more details.
+* **Archivos**
+  * README.md: Este archivo 
+* **Carpetas**
+  * retro: Carpeta con información sobre los entregables a retroalimentar.
+
+## Archivos para revisión
+En seguida se presentan los archivos a revisar: 
+* *retro*
+	* *reto_limpiezaDatos*
+		* README.md : Justification related to the changes and desicions made over the dataset.  
+		* AI1.ipynb : Code for the cleancing of the dataset and some statistical analizys.  
+		* data_titanic.csv : Dataset of the passengers on board the Titanic.
+
