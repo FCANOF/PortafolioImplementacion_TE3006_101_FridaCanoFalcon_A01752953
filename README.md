@@ -8,7 +8,7 @@ Este repositorio recopila la implementación de técnicas de aprendizaje máquin
 El root folderdel repositorio contiene los siguientes carpetas y archivos:
 
 * **Archivos**
-  * README.md: Este archivo 
+  * README.md: Este archivo. 
 * **Carpetas**
   * final: Carpeta con información sobre los entregables finales que incluyen los cambios dados en la retroalimentación.
   * retro: Carpeta con información sobre los entregables a retroalimentar.
@@ -16,7 +16,9 @@ El root folderdel repositorio contiene los siguientes carpetas y archivos:
 ## Archivos para revisión
 En seguida se presentan los archivos a revisar: 
 * *retro*
-	* *reto_limpiezaDatos*
-		* README.md : Justification related to the changes and desicions made over the dataset.  
-		* AI1.ipynb : Code for the cleancing of the dataset and some statistical analizys.  
-		* data_titanic.csv : Dataset of the passengers on board the Titanic.
+	* *MN_MR1*
+		* README.md : Explicación del contenido de la carpeta.  
+		* ML_RegresionLineal.ipynb : Code for the cleancing of the dataset and some statistical analizys.  
+		* wine.data: base de datos de vinos.
+		* wine.names: metadata de la base de datos.
+  
