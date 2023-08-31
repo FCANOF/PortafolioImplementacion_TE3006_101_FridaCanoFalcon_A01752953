@@ -7,5 +7,5 @@ El root folder del repositorio contiene los siguientes carpetas y archivos:
 * **Archivos**
   * README.md: Este archivo 
 * **Carpetas**
-  * **Evidencia 01 - _MN_MR1_ - ML sin uso de framework:**  Carpeta con información sobre los entregables a retroalimentar en el **Primer Momento de retroalimentación** en la parte de Machine Learning.
-  * **Evidencia 02: ML con uso de framework** 
+  * **Evidencia 01 - _ML_MR1_ - ML sin uso de framework:**  Carpeta con información sobre los entregables a retroalimentar en el **Primer Momento de retroalimentación** en la parte de Machine Learning.
+  * **Evidencia 02: _ML_MR2_ con uso de framework:**  Carpeta con información sobre los entregables a retroalimentar en el **Segundo Momento de retroalimentación** en la parte de Machine Learning.
