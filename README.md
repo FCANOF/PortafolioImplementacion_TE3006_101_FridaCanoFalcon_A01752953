@@ -13,6 +13,14 @@ El root folderdel repositorio contiene los siguientes carpetas y archivos:
 * **Carpetas**
   * final: Carpeta con información sobre los entregables finales que incluyen los cambios dados en la retroalimentación.
   * retro: Carpeta con información sobre los entregables a retroalimentar.
+        * *MN_MR1*
+		* README.md : Explicación de la implementación del modelo de aprendizaje sin uso de framework. 
+		* MR_M2_Framework.ipynb : Implementación del programa.  
+		* El marcapasos.csv: Base de datos.
+	* *MN_MR2*
+		* README.md : Explicación de la implementación del modelo de aprendizaje con uso de framework. 
+		* MR_M2_Framework.ipynb : Implementación del programa.  
+		* El marcapasos.csv: Base de datos.
 
 ## Archivos para revisión
 En seguida se presentan los archivos a revisar: 
