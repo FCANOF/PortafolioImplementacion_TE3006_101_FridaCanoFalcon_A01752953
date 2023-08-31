@@ -53,3 +53,4 @@ De igual manera para cada prueba se realizó una matriz de confusión para verif
 ### Conclusiones
 Los resultados de estas pruebas, al ser la mayoría mayores a 0.9 o ser exactamente 1, dan a suponer que existión un sobreajuste, lo cual nos puede decir que talvez este modelo no es el más adecuado para esta cantidad de muestras o que los volores para determinar si los datos pertenecen o no a una clase no dan mucha información.
 
+Por otro lado, se pueden probar con otros métodos de aprendizaje de clasificación que gracias a la librería de scikit learn podemos obtener. Sin duda este ejercició sirvió para poder poner a prueba la implementación de un modelo a través del uso de framework, lo que nos permite realizar pruebas de forma eficaz.
