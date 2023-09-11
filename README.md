@@ -20,8 +20,8 @@ En seguida se presentan los archivos a revisar:
 * *final*
    * M1_Estadistica
        * Precio de Autos
-          * ProcesamientoDatos
-          * AnalisisEstadistico
+          * ProcesamientoDeDatos
+          * Reporte_AnalisisEstadistico
        * Actividades Implementiacion
           * Act4_IntervalosConfianza
           * Act5_PruebasHipotesis
