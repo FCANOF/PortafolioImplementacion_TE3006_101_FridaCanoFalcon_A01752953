@@ -1,4 +1,5 @@
-# Repositorio del curso TC3006 - Portafolio de implementación
+# Portafolio de implementación
+**Repositorio del curso TC3006**
 Este repositorio recopila la implementación de técnicas de aprendizaje máquina según lo visto en el curso TC3006 del Tecnológico de Monterrey.
 
 ## Alumno:
