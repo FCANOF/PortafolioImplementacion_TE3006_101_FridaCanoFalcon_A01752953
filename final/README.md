@@ -16,6 +16,11 @@ En esta carpeta se incluyen las evidencias finales de los dos módulos: Estadís
     * _**precios_autos.xsml**_: mega data de la base de datos.
       
   *  **Actividades Analisis**
-      * _**Act1_Distribuciones.ipynb**_
-      * _**Act2_ExplorandoBases.ipynb**_
-      * _**Act3_Transformaciones.ipynb**_
+      * _**Act4_IntervalosConfianza.ipynb/.pdf**_
+      * _**Act5_PruebasHipotesis.ipynb/.pdf**_
+      * _**Act6_ANOVA.ipynb/.pdf**_
+      * _**Act7_RegresionLineal.ipynb/.pdf**_
+
+* **M2_ML**
+  * _**ML_RegresionLineal.ipynb**_
+  * _**ML_MR2_Framework.ipynb**_
