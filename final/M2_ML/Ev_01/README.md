@@ -1,6 +1,25 @@
-# Machine Learning - Momento de retroalimentación 1
+# Machine Learning - Implementación de un modelo sin el uso de Framework
+
 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. El objetivo es programar uno de los algoritmos vistos en el módulo (o que tu profesor de módulo autorice) sin usar ninguna biblioteca o framework de aprendizaje máquina, ni de estadística avanzada. Lo que se busca es implementar manualmente el algoritmo, no que importar un algoritmo ya implementado. 
 
+## Introducción
+
+Para este entregable se buscó analizar una base de datos de Vinos (`wine.data/`) en la cual se registran múltiples caracterísiticas químicas de diferentes vinos. En este caso, se propone la siguiente hipósteis:
+
+  * ¿El componente "_malAcid_" tiene un impacto en e color del vino?
+
+Debido a que esta pregunta nos lleva a intuir que la relación entre ambas variables debe ser significativa, es decir el comportamiento de una tienen que tener un impacto en el comportamiento de la otra, lo que nos lleva a pensar que esta problemática se puede resolver con un modelo de regresión y no de categorización. 
+
+En este bloque se exploraron diferentes modelos de regresión, entre ellos el de Regresión Lineal, el cual consiste según la documentación de _Scikit Learn_ en un modelo lineal con coeficientes w = (w1, …, wp) para minimizar la suma residual de los cuadrados entre los objetivos observados en el conjunto de datos y los objetivos predichos por la aproximación lineal. Se tomará entonces este modelo para verificar la relación entre ambas varibales, si es que encuentra un modelo que se ajuste al comportamiento de los datos entonces se deduce que ambas varibales tienen una relación lineal.
+
+## Desarrollo
+El desarrollo se dividió en dos partes, el procesamiento de los datos y la aplicación del modelo.
+
+### Exploramiento y procesamiento de los datos
+
+En esta etapa se exploró la base de datos, se buscó identificar que en las variables no existieran valores nulos o atípicos. En seguida se extrajeron en dos dataframes diferentes los datos de  _Proanthocyanis_ --> _x_data_ y los de _color_ --> _y_data_.
+
+Se graficaron mode
 
 ## Archivos para revisión
 En seguida se presentan los archivos a revisar: 
