@@ -55,6 +55,15 @@ En la última prueba obtuvimos que los mejores valores para estas variables son:
 *  $\alpha = 0.45$
 *  $it = 20$
 
+Para comprobar el desarrollo de la regresión lineal a mano se utilizó un modelo en framework de Regresión Lineal de Scikit Learn. Se compararon los valores de prediccion contra una recta con los valores reales.
+
+
+![](https://github.com/FCANOF/PortafolioImplementacion_TE3006_101_FridaCanoFalcon_A01752953/blob/main/final/M2_ML/Ev_01/model_framework.png)
+
+
+Podemos apreciar en la gráfica que el modelo lineal puede no predecir muy bien los valores, por lo que talvez este modelo no sea tan adecuado para resolver la hipótesis planteada.
+
+
 ### Conclusiones
 
 Después de varios intentos e iteraciones se ve que esta variable _malAcid_ no tiene relación lineal directa con la variable de _color_ del vino. ESin emabrgo existen modelos que gracias a su naturaleza pueden ayudar a aproximar mejor el comprtamiento de las variables para así determinar lla relación entre ellas.
