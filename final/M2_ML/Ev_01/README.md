@@ -25,6 +25,15 @@ Se graficó el comportamiento de los datos:
 
 Dando un ojo a la gráfica se ve una dispersión muy variada, por lo que podemos llegar a decir que se ve dificil una relacón entre las variables. Sin embargo se busca comprobarla matemáticamente.
 
+### Aplicaicón del modelo
+
+
+En cada iteración debemos calcular el valor de la derivada de la función de costo, que se obtiene a partir de los datos estimados, $h_\theta(x_i)$, y reales, $y_i$:
+
+$\frac{∂J_{θ}}{∂θ_0} = \frac{1}{n}\sum_{i=1}^{n}(h_θ(x_i)-y_i)$
+
+$\frac{∂J_{θ}}{∂θ_1} = \frac{1}{n}\sum_{i=1}^{n}(h_θ(x_i)-y_i)x_i$
+
 ## Archivos para revisión
 En seguida se presentan los archivos a revisar: 
 
