@@ -1,11 +1,20 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Evidencias Finales - Machine Learning
 
-## Files for revision
-This folder contains the files related to the deliverables from the Machine Learning module. The following files are to be graded: 
+En esta carpeta se encuentran las evidencias finales realizadas en el módulo de Machine Learning, se incluyen las correciones detalladas en los momentos de retroalimentación.
 
- * **Evidence 01: ML from scratch** Please review file **Ev_01/dummyFile.txt**
- * **Evidence 02: ML from a framework** Please review file **Ev_02/dummyFolder/dummyFile.txt**
+## Archivos de Revisión
+
+ * **Evidence 01: ML desde cero**
+
+   Revisar el archivo que se encuentra en la carpeta
+     * **Ev_01/README.mbd**, este archivo contiene un reporte donde se desarrolla el procedimiento, este se coplementa con el archivo
+     * **Ev_01/ML_RegresionLineal.ipynb** en donde se realiza el procesamiento de datos y desarrollo del modelo.
+   
+ * **Evidence 02: ML con uso de framework -**
+
+   Revisar el archivo que se encuentra en la carpeta
+     * **Ev_02/README.mbd**, este archivo contiene un reporte donde se desarrolla el procedimiento, este se coplementa con el archivo
+     * **Ev_02/ML_MR2_Framework.ipynb** en donde se realiza el procesamiento de datos y desarrollo del modelo.
 
 ## Requested changes and replies
 Following is a list of the issues that were raised by the reviewer during the feedback phase, and the changes that we implemented for solving them.
