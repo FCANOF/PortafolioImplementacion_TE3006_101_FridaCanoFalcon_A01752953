@@ -19,7 +19,11 @@ El desarrollo se dividió en dos partes, el procesamiento de los datos y la apli
 
 En esta etapa se exploró la base de datos, se buscó identificar que en las variables no existieran valores nulos o atípicos. En seguida se extrajeron en dos dataframes diferentes los datos de  _Proanthocyanis_ --> _x_data_ y los de _color_ --> _y_data_.
 
-Se graficaron mode
+Se graficó el comportamiento de los datos:
+
+ ![](https://github.com/FCANOF/PortafolioImplementacion_TE3006_101_FridaCanoFalcon_A01752953/blob/main/final/M2_ML/Ev_01/colorVsmalAcid.png)
+
+Dando un ojo a la gráfica se ve una dispersión muy variada, por lo que podemos llegar a decir que se ve dificil una relacón entre las variables. Sin embargo se busca comprobarla matemáticamente.
 
 ## Archivos para revisión
 En seguida se presentan los archivos a revisar: 
