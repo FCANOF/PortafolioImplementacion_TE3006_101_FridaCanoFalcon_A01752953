@@ -20,7 +20,11 @@ El desarrollo se dividió en dos partes, el procesamiento de los datos y la apli
 En esta etapa se exploró la base de datos, se buscó identificar la cantidad de muestras a analizar, cuantas categorías vienen incluidas, si existían valores nulos o atípicos, etc. 
 
 El dataset `wine.data/` (anexado en esta carpeta) consta de una tabla que describe 13 categorías para un total de 178 muestras.
+
+
 ![](https://github.com/FCANOF/PortafolioImplementacion_TE3006_101_FridaCanoFalcon_A01752953/blob/main/final/M2_ML/Ev_01/wine_info.jpg)
+
+
 En seguida se extrajeron en dos dataframes diferentes los datos de  _Proanthocyanis_ --> _x_data_ y los de _color_ --> _y_data_.
 
 Se graficó el comportamiento de los datos:
@@ -43,6 +47,13 @@ Se realizaron distintas pruebas para aproximar la ecuación de regresión lineal
 *   Θ (theta 0 y 1)
 *   α (alpha)
 *   Número de iteraciones
+
+En la última prueba obtuvimos que los mejores valores para estas variables son:
+
+*  $\theta{_0} = 1$
+*  $\theta{_1} = 1$
+*  $\alpha = 0.45$
+*  $it = 20$
 
 ### Conclusiones
 
