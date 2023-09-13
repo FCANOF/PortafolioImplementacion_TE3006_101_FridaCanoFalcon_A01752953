@@ -34,6 +34,16 @@ $\frac{∂J_{θ}}{∂θ_0} = \frac{1}{n}\sum_{i=1}^{n}(h_θ(x_i)-y_i)$
 
 $\frac{∂J_{θ}}{∂θ_1} = \frac{1}{n}\sum_{i=1}^{n}(h_θ(x_i)-y_i)x_i$
 
+Se realizaron distintas pruebas para aproximar la ecuación de regresión lineal que mejor se ajuste a la distribución de datos, modificando las variables de forma arbitraria:
+
+*   Θ (theta 0 y 1)
+*   α (alpha)
+*   Número de iteraciones
+
+### Conclusiones
+
+Después de varios intentos e iteraciones se ve que esta variable _malAcid_ no tiene relación lineal directa con la variable de _color_ del vino. ESin emabrgo existen modelos que gracias a su naturaleza pueden ayudar a aproximar mejor el comprtamiento de las variables para así determinar lla relación entre ellas.
+
 ## Archivos para revisión
 En seguida se presentan los archivos a revisar: 
 
