@@ -4,7 +4,7 @@ Implementación de una técnica de aprendizaje máquina sin el uso de un framewo
 
 ## Introducción
 
-Para este entregable se buscó analizar una base de datos de Vinos (`wine.data/`) en la cual se registran múltiples caracterísiticas químicas de diferentes vinos. En este caso, se propone la siguiente hipósteis:
+Para este entregable se buscó analizar una base de datos de Vinos `wine.data/` (anexado en esta carpeta) en la cual se registran múltiples caracterísiticas químicas de diferentes vinos. En este caso, se propone la siguiente hipósteis:
 
   * ¿El componente "_malAcid_" tiene un impacto en e color del vino?
 
@@ -17,7 +17,11 @@ El desarrollo se dividió en dos partes, el procesamiento de los datos y la apli
 
 ### Exploramiento y procesamiento de los datos
 
-En esta etapa se exploró la base de datos, se buscó identificar que en las variables no existieran valores nulos o atípicos. En seguida se extrajeron en dos dataframes diferentes los datos de  _Proanthocyanis_ --> _x_data_ y los de _color_ --> _y_data_.
+En esta etapa se exploró la base de datos, se buscó identificar la cantidad de muestras a analizar, cuantas categorías vienen incluidas, si existían valores nulos o atípicos, etc. 
+
+El dataset `wine.data/` (anexado en esta carpeta) consta de una tabla que describe 13 categorías para un total de 178 muestras.
+![](https://github.com/FCANOF/PortafolioImplementacion_TE3006_101_FridaCanoFalcon_A01752953/blob/main/final/M2_ML/Ev_01/wine_info.jpg)
+En seguida se extrajeron en dos dataframes diferentes los datos de  _Proanthocyanis_ --> _x_data_ y los de _color_ --> _y_data_.
 
 Se graficó el comportamiento de los datos:
 
