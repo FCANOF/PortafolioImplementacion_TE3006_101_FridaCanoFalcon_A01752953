@@ -22,5 +22,11 @@ En esta carpeta se incluyen las evidencias finales de los dos módulos: Estadís
       * _**Act7_RegresionLineal.ipynb/.pdf**_
 
 * **M2_ML**
-  * _**ML_RegresionLineal.ipynb**_
-  * _**ML_MR2_Framework.ipynb**_
+  Evidencias del módulo de Machine Learning, se realizan las correciones detalladas en los momentos de retroalimentación.
+  
+  * **Ev_1**
+     * _**ML_RegresionLineal.ipynb**_
+     * _**README.md**_ : Explicación del archivo.
+  * **Ev_2**
+     * _**ML_MR2_Framework.ipynb**_
+     * _**README.md**_ : Explicación del archivo.
